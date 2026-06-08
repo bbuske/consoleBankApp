@@ -1,0 +1,21 @@
+Problem Description
+
+Create a program that:
+
+1) Accepts the user's name as input
+2) Initializes the account with a starting balance of $1000.00
+3) Displays a menu with the following options:
+        Cheek Balance
+        Deposit Money
+        Withdraw Money
+
+The application must:
+
+1) Allow the user to check their current balance.
+2) Allow deposit only, if the entered amount is positive.
+3) Allow withdrawal only, if:
+        The amount is positive, and
+        The amount does not exceed the available balance.
+
+Display appropriate success and error messages.
+Continue running until the user selects the Exit option.
